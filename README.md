@@ -1,0 +1,1 @@
+A project from the open-source Frontend Developer course, The Odin Project.
